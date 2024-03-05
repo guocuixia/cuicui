@@ -1,0 +1,21 @@
+{
+  "name": "cuicui/",
+  "version": "1.0.0",
+  "description": "A simple wallet program for managing deposits and withdrawals",
+  "main": "index.js",
+  "author": "guocuixia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guocuixia/cuicui.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "cuicui"
+  ],
+  "bugs": {
+    "url": "https://github.com/guocuixia/cuicui/issues"
+  },
+  "homepage": "https://github.com/guocuixia/cuicui/tree/main#readme"
+}
